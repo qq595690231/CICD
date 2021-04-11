@@ -1,6 +1,3 @@
-<template>
-    <div></div>
-</template>
 <script>
 import { createOrUpdataMenu } from '@/services/menu'
 export default {
