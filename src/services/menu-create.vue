@@ -1,7 +1,4 @@
-<template>
-  
-</template>
-
+<template></template>
 <script>
 import { createOrUpdataMenu } from '@/services/menu'
 export default {
@@ -11,10 +8,7 @@ export default {
             console.log(data)
         }
     }
-
 }
 </script>
-
 <style>
-
 </style>
