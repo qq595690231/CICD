@@ -1,4 +1,8 @@
-<template></template>
+<template>
+    <div>
+        <p></p>
+    </div>
+</template>
 <script>
 import { createOrUpdateMenu } from '@/services/menu'
 export default {
